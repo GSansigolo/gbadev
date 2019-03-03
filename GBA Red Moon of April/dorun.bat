@@ -1,2 +1,0 @@
-start skiing.gba
-
