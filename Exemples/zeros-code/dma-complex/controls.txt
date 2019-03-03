@@ -1,8 +1,0 @@
-controls
-  d-pad moves
-  a - toggles vertical flip bit
-  b - toggles horizontal flip bit
-  l - background 0 enable/disable
-  r - background 1 enable/disable
-  select - background 2 enable/disable
-  start - background 3 enable/disable
